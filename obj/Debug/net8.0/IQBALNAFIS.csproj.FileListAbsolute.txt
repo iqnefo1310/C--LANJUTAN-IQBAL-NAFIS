@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\bin\Debug\net8.0\IQBALNAFIS.exe
+C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\bin\Debug\net8.0\IQBALNAFIS.deps.json
+C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\bin\Debug\net8.0\IQBALNAFIS.runtimeconfig.json
+C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\bin\Debug\net8.0\IQBALNAFIS.dll
+C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\bin\Debug\net8.0\IQBALNAFIS.pdb
+C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\obj\Debug\net8.0\IQBALNAFIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\obj\Debug\net8.0\IQBALNAFIS.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\obj\Debug\net8.0\IQBALNAFIS.AssemblyInfo.cs
+C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\obj\Debug\net8.0\IQBALNAFIS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\obj\Debug\net8.0\IQBALNAFIS.dll
+C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\obj\Debug\net8.0\refint\IQBALNAFIS.dll
+C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\obj\Debug\net8.0\IQBALNAFIS.pdb
+C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\obj\Debug\net8.0\IQBALNAFIS.genruntimeconfig.cache
+C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\obj\Debug\net8.0\ref\IQBALNAFIS.dll
