@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("HELLO, I'AM IQBAL N!");
+﻿using IQBALNAFIS;
+
+ListLINQ m = new ListLINQ();
+//m.UsingWhereCondition();
+//m.Sort();
+m.Sum();
+m.GetFirst();
+m.CetakNama();

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IQBALNAFIS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a0f606f98dc45e3907037583f21f2c9fc931046")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6aa9b4e3ea375871928db50f126a02fa36ce37cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("IQBALNAFIS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IQBALNAFIS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\obj\Debug\net8.0\re
 C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\obj\Debug\net8.0\IQBALNAFIS.pdb
 C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\obj\Debug\net8.0\IQBALNAFIS.genruntimeconfig.cache
 C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\obj\Debug\net8.0\ref\IQBALNAFIS.dll
+C:\Users\HP\Documents\1.PEMOGRAMAN\8. C# LANJUTAN\IQBALNAFIS\obj\Debug\net8.0\IQBALNAFIS.sourcelink.json
