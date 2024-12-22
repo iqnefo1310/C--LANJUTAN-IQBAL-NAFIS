@@ -43,5 +43,7 @@ namespace IQBALNAFIS
             var namaNama = names;
             Console.WriteLine("nama nama : " + string.Join(", ",namaNama));
         }
+
+       
     }
 }
